@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zaqq99
-- 👀 I’m interested in Linux and Python.
+- 👀 I’m interested in Linux, Python and Databases.
 - 🌱 I’m currently learning Python, Bash and Math.
 
 <!---
